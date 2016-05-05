@@ -1,0 +1,28 @@
+Method of Hosting your project through Firebase
+.
+1, Install node latest version from
+.......... nodejs.org
+2, To check node is install in your local system
+...Write command in cmd:
+.......... node -v
+Note: Installing of node will also install npm
+3, Installing firebase tools globally in your system
+...Use command in cmd
+.......... npm install -g firebase-tools
+4, To initiate firebase in your local project
+...Open cmd with project extension and Use command
+........... firebase init
+Note: If you are not already login so you will have to login to firebase 1st using command
+........... firebase login
+5, When you are done with login you may proceed with selecting your app of firebase
+If you want to make new app so select:
+........... Create a new firebase
+else select any available app you want.
+6, Select public or replace it by any name you want 
+7, put your project inside public folder
+8, Use command to deploy your project
+........... firebase deploy
+9, To open in browser, Use command:
+........... firebase open
+.
+Best of Luck

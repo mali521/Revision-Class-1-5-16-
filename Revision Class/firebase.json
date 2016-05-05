@@ -1,0 +1,9 @@
+{
+  "firebase": "batch-4-revision",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
